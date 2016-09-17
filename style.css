@@ -1,0 +1,35 @@
+.demo-card-wide.mdl-card {
+  width: 312px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;  
+  background:
+     #46B6AC;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;  
+}
+
+body {
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
+}
+.img {
+  heigth: 100px;
+  width: 100px;
+  border-radius: 10px;
+  padding: 5px;
+  border: 2px solid;  
+}
+body {
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
+}
+body {
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
+}
